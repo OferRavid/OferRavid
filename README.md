@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Ofer, I'm a DevOps Engineer with passion for Backend Development.  
+I recently finished an on-line Backend course on boot.dev.  
+
+I currently work on a private project: a note-taking app called 'Notey'. Notey is developed in Go utilizing the Echo framework, PostgreSQL for data management, and JSON Web Tokens (JWT) for secure authentication. I'm also making my way through the AWS DevSecOps certification path.  
+
+I'm actively looking for a position in DevOps or Backend Developmnt, so if you know of any companies that need a skilled Go or Python Engineer or a promising DevOps Engineer, [hit me up!](https://www.linkedin.com/in/ofer-ravid-71527b154/)
+
 <!--
 **OferRavid/OferRavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
