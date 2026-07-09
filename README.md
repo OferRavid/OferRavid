@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ofer, I'm a DevOps Engineer with passion for Backend Development.  
+I'm Ofer, I'm a Software Engineer with experience as a DevSecOps, and a passion for Backend Development.  
 I recently finished an on-line Backend course on boot.dev.  
 
 I currently work on a private project: a note-taking app called 'Notey'. Notey is developed in Go utilizing the Echo framework, PostgreSQL for data management, and JSON Web Tokens (JWT) for secure authentication. I'm also making my way through the AWS DevSecOps certification path.  
